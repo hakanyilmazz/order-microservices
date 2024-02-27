@@ -19,4 +19,6 @@
     <li>Kibana</li>
     <li>Spring Cloud</li>
     <li>Spring Boot</li>
+    <li><em>Testcontainers (Integration Test)</em></li>
+    <li>JUnit5</li>
 </ul>
